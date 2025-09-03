@@ -11,6 +11,9 @@ Beyond the technical side, I care about the impact of the systems I help build. 
 
 I’d be thrilled to bring this blend of creativity, persistence, and systems thinking to WindBorne, helping your team push forward the next generation of flight hardware. Thank you for your time and consideration, I’d love the chance to contribute to your mission.
 
+Best regards,
+Tyler Wong
+
 # PCB Highlight
 One creative feature of this PCB is how I routed both the servo PWM signals and the DC motor driver lines in a way that cleanly separates the high-current power path (highlighted in red) from the low-noise control traces.
 
@@ -18,5 +21,3 @@ Instead of using a bulky shunt resistor, I took advantage of the ground return p
 
 You could call it a “cute way” of sneaking in current sensing and power/logic isolation, while still making the layout beginner-friendly for assembly and debugging.
 
-Best regards,
-Tyler Wong
