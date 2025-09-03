@@ -12,6 +12,7 @@ Beyond the technical side, I care about the impact of the systems I help build. 
 I’d be thrilled to bring this blend of creativity, persistence, and systems thinking to WindBorne, helping your team push forward the next generation of flight hardware. Thank you for your time and consideration, I’d love the chance to contribute to your mission.
 
 Best regards,
+
 Tyler Wong
 
 # PCB Highlight
